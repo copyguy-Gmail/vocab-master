@@ -1,0 +1,17 @@
+{
+  "name": "Vocab Master 2000",
+  "short_name": "Vocab Master",
+  "description": "國中必備 2000 單字挑戰",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3426/3426653.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

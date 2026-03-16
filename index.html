@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2000單字大挑戰 | Flashcard Pro</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#6366f1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js');
+            });
+        }
+    </script>
+</head>
+<body>
+    <!-- Level Selection Screen -->
+    <div id="level-screen" class="screen active">
+        <header>
+            <div class="word-count">國中必備 2000 單字</div>
+            <h1>VOCAB MASTER</h1>
+            <p class="subtitle">請選擇關卡開始挑戰</p>
+        </header>
+        <div class="level-grid" id="level-grid">
+            <!-- Levels 1-20 will be generated here -->
+        </div>
+    </div>
+
+    <!-- Main Game Screen -->
+    <div id="app" class="screen">
+        <header>
+            <div class="header-top">
+                <button id="back-to-levels" class="back-btn">⬅ 關卡</button>
+                <div class="current-level-tag" id="level-tag">Level 1</div>
+                <button id="sound-toggle" class="sound-btn" title="切換聲音">
+                    <span class="icon">🔊</span>
+                </button>
+            </div>
+            <h1>VOCAB MASTER</h1>
+            <div class="progress-container">
+                <div class="progress-bar" id="progress-bar"></div>
+            </div>
+        </header>
+
+        <div class="stats">
+            <div class="stat-group">
+                <div>已掌握: <span id="learned-count">0</span></div>
+                <div>剩餘: <span id="remaining-count">0</span></div>
+            </div>
+            <button id="btn-review" class="review-btn" title="複習錯誤 (R)" style="display: none;">
+                複習錯誤 (<span id="wrong-total">0</span>)
+            </button>
+        </div>
+
+        <div class="flashcard-wrapper" id="card-trigger">
+            <div class="flashcard" id="flashcard">
+                <div class="card-face card-front">
+                    <span class="word-type" id="card-type">Part of Speech</span>
+                    <h2 class="word-main" id="card-word">English Word</h2>
+                    <p class="hint">點擊翻面查看中文</p>
+                </div>
+                <div class="card-face card-back">
+                    <p class="meaning-main" id="card-meaning">中文解釋</p>
+                    <p class="hint">點擊翻回正面</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button class="btn btn-wrong" id="btn-wrong">
+                <span>❌</span> 沒記住 (A)
+            </button>
+            <button class="btn btn-right" id="btn-right">
+                <span>✅</span> 記住了 (S)
+            </button>
+        </div>
+    </div>
+
+    <div id="win-screen">
+        <div class="win-content">
+            <div class="win-title">🎉 完美通關！</div>
+            <p>你已經掌握了所有選定的單字</p>
+            <button class="btn btn-right" style="margin: 2rem auto;" onclick="location.reload()">再玩一次</button>
+        </div>
+    </div>
+
+    <script src="words.js"></script>
+    <script src="game.js"></script>
+</body>
+</html>
