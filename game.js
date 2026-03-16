@@ -222,8 +222,8 @@ soundToggle.addEventListener('click', () => {
 
 document.addEventListener('keydown', (e) => {
     if (e.code === 'Space') { e.preventDefault(); toggleFlip(); }
-    if (e.code === 'KeyS' || e.code === 'ArrowRight') { handleNext(true); }
-    if (e.code === 'KeyA' || e.code === 'ArrowLeft') { handleNext(false); }
+    if (e.code === 'KeyX' || e.code === 'ArrowRight') { handleNext(true); }
+    if (e.code === 'KeyZ' || e.code === 'ArrowLeft') { handleNext(false); }
     if (e.code === 'KeyR') { startReviewMode(); }
     if (e.code === 'Escape') { backToLevels(); }
 });
