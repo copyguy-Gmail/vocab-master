@@ -4,6 +4,7 @@ let remainingWords = [];
 let wrongWords = new Set();
 let isMuted = false;
 let totalSessionWords = 0;
+let hasUnlockedSpeech = false; // Flag for mobile audio unlock
 
 // DOM Elements
 const levelScreen = document.getElementById('level-screen');
@@ -38,16 +39,23 @@ function createLevelSelection() {
     }
 }
 
+// Special function to unlock speech on mobile
+function unlockMobileSpeech() {
+    if (hasUnlockedSpeech) return;
+    const silentUtterance = new SpeechSynthesisUtterance(' ');
+    silentUtterance.volume = 0;
+    window.speechSynthesis.speak(silentUtterance);
+    hasUnlockedSpeech = true;
+}
+
 function startLevel(level) {
+    unlockMobileSpeech(); // Unlock on the very first button click
+    
     currentLevel = level;
     levelTag.textContent = `Level ${level}`;
     
-    // Calculate word range
     const startIdx = (level - 1) * 100;
     const endIdx = startIdx + 100;
-    
-    // Get words for this level
-    // If we have fewer than endIdx words, it just takes what's available
     const levelWords = VOCAB_DATA.slice(startIdx, endIdx);
     
     if (levelWords.length === 0) {
@@ -58,17 +66,15 @@ function startLevel(level) {
     remainingWords = [...levelWords];
     remainingWords.sort(() => Math.random() - 0.5);
     
-    // Reset stats
     learnedCount = 0;
     totalSessionWords = remainingWords.length;
     wrongWords = new Set();
     
-    // Switch screens
     levelScreen.classList.remove('active');
     gameApp.classList.add('active');
     
     updateCounts();
-    showCurrentWord();
+    showCurrentWord(true); // First word of level
 }
 
 function backToLevels() {
@@ -89,14 +95,23 @@ function updateCounts() {
 
 function speak(text) {
     if (isMuted) return;
+    
+    // In mobile, we cancel and then speak immediately
     window.speechSynthesis.cancel();
+    
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = 'en-US';
     utterance.rate = 0.9;
+    
+    // Some mobile devices need this to ensure voices are loaded
+    const voices = window.speechSynthesis.getVoices();
+    const enVoice = voices.find(v => v.lang.includes('en-US') || v.lang.includes('en_US'));
+    if (enVoice) utterance.voice = enVoice;
+
     window.speechSynthesis.speak(utterance);
 }
 
-function showCurrentWord() {
+function showCurrentWord(immediateSpeak = false) {
     if (remainingWords.length === 0) {
         showWinScreen();
         return;
@@ -108,9 +123,14 @@ function showCurrentWord() {
     meaningMain.textContent = currentWord.m;
     flashcard.classList.remove('flipped');
     
-    setTimeout(() => {
+    if (immediateSpeak) {
         speak(currentWord.w);
-    }, 400);
+    } else {
+        // Use a shorter delay to stay closer to the user interaction window
+        setTimeout(() => {
+            speak(currentWord.w);
+        }, 300);
+    }
 }
 
 function showWinScreen() {
@@ -125,6 +145,10 @@ function showWinScreen() {
 
 function handleNext(isKnown) {
     if (remainingWords.length === 0) return;
+    
+    // Critical: Try to speak right here to maintain the "user-initiated" context if needed,
+    // or at least ensure the next call is very close.
+    // For mobile, immediate interaction is best.
 
     if (isKnown) {
         remainingWords.shift();
@@ -144,7 +168,7 @@ function handleNext(isKnown) {
         showCurrentWord();
         flashcard.style.transform = '';
         flashcard.style.opacity = '1';
-    }, 300);
+    }, 250);
 }
 
 function startReviewMode() {
@@ -155,24 +179,46 @@ function startReviewMode() {
     totalSessionWords = remainingWords.length;
     wrongWords = new Set();
     updateCounts();
-    showCurrentWord();
+    showCurrentWord(true); // Speak immediately on button click
 }
 
 function toggleFlip() {
     flashcard.classList.toggle('flipped');
+    // Re-speak word on flip if front is shown (optional)
+    if (!flashcard.classList.contains('flipped')) {
+        speak(wordMain.textContent);
+    }
 }
 
 // Event Listeners
 cardTrigger.addEventListener('click', toggleFlip);
-btnWrong.addEventListener('click', (e) => { e.stopPropagation(); handleNext(false); });
-btnRight.addEventListener('click', (e) => { e.stopPropagation(); handleNext(true); });
-btnReview.addEventListener('click', startReviewMode);
+btnWrong.addEventListener('click', (e) => { 
+    e.stopPropagation(); 
+    unlockMobileSpeech(); 
+    handleNext(false); 
+});
+btnRight.addEventListener('click', (e) => { 
+    e.stopPropagation(); 
+    unlockMobileSpeech(); 
+    handleNext(true); 
+});
+
+btnReview.addEventListener('click', (e) => {
+    e.stopPropagation();
+    unlockMobileSpeech();
+    startReviewMode();
+});
+
 backToLevelsBtn.addEventListener('click', backToLevels);
 
 soundToggle.addEventListener('click', () => {
     isMuted = !isMuted;
     soundToggle.classList.toggle('muted', isMuted);
     soundToggle.querySelector('.icon').textContent = isMuted ? '❌' : '🔊';
+    if (!isMuted) {
+        unlockMobileSpeech();
+        speak(wordMain.textContent);
+    }
 });
 
 // Keyboard Support
@@ -186,3 +232,5 @@ document.addEventListener('keydown', (e) => {
 
 // Init Screen
 createLevelSelection();
+// Ensure voices load
+window.speechSynthesis.getVoices();
