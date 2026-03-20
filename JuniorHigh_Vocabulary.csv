@@ -1,0 +1,1052 @@
+﻿id,word,part_of_speech,meaning
+1,adult,名詞,成年人 33 beautiful 形容詞 美麗的
+2,angel,名詞,天使 34 blind 形容詞 失明的
+3,baby,名詞,嬰兒 35 chubby 形容詞 圓胖的
+4,boy,名詞,男孩 36 cute 形容詞 可愛的
+5,child,名詞,小孩 37 deaf 形容詞 失聰的
+6,couple,名詞,情侶；夫妻 38 dumb 形容詞 啞的
+7,customer,名詞,顧客 39 fat 形容詞 胖的
+8,fool,名詞,傻瓜 40 handsome 形容詞 英俊的
+9,genius,名詞,天才 41 heavy 形容詞 重的
+10,gentleman,名詞,紳士 42 nice-looking 形容詞 好看的
+11,giant,名詞,巨人 43 old 形容詞 年老的
+12,girl,名詞,女孩 44 over-weight 形容詞 過重的
+13,guest,名詞,客人 45 short 形容詞 矮的
+14,hero,名詞,英雄 46 skinny 形容詞 極瘦的
+15,host,名詞,主人 47 slender 形容詞 苗條的
+16,kid,名詞,小孩 48 slim 形容詞 纖細的
+17,king,名詞,國王 49 tall 形容詞 高的
+18,lady,名詞,女士 50 thin 形容詞 瘦的
+19,man,名詞,男人 51 under-weight 形容詞 體重不足的
+20,master,名詞,主人；大師 52 ugly 形容詞 醜陋的
+21,neighbor,名詞,鄰居 53 young 形容詞 年輕的
+22,partner,名詞,夥伴；伴侶 54 active 形容詞 活躍的
+23,people,名詞,人們 55 angry 形容詞 生氣的
+24,person,名詞,人 56 bad 形容詞 壞的
+25,prince,名詞,王子 57 boring 形容詞 令人無聊的
+26,princess,名詞,公主 58 brave 形容詞 勇敢的
+27,queen,名詞,女王 59 busy 形容詞 忙碌的
+28,stranger,名詞,陌生人 60 careful 形容詞 小心的
+29,teenager,名詞,青少年 61 careless 形容詞 粗心的
+30,visitor,名詞,訪客 62 childish 形容詞 幼稚的
+31,woman,名詞,女人 63 childlike 形容詞 孩子般的
+32,youth,名詞,青年 64 confident 形容詞 有自信的
+65,considerate,形容詞,體貼的 96 lovely 形容詞 可愛的
+66,cool,形容詞,酷的 97 mad 形容詞 瘋狂的
+67,crazy,形容詞,瘋狂的 98 naughty 形容詞 頑皮的
+68,cruel,形容詞,殘忍的 99 nervous 形容詞 緊張的
+69,curious,形容詞,好奇的 100 patient 形容詞 有耐心的
+70,diligent,形容詞,勤奮的 101 polite 形容詞 有禮貌的
+71,dishonest,形容詞,不誠實的 貧窮的；可憐
+72,evil,形容詞,邪惡的 的
+73,energetic,形容詞,精力充沛的 103 proud 形容詞 驕傲的
+74,excited,形容詞,感到興奮的 104 rich 形容詞 有錢的
+75,exciting,形容詞,令人興奮的 105 rude 形容詞 粗魯的
+76,famous,形容詞,著名的 106 sad 形容詞 難過的
+77,foolish,形容詞,愚蠢的 107 scared 形容詞 害怕的
+78,frank,形容詞,坦率的 108 selfish 形容詞 自私的
+79,friendly,形容詞,友善的 109 shy 形容詞 害羞的
+80,funny,形容詞,有趣的 110 silly 形容詞 傻的
+81,gentle,形容詞,溫和的 111 sincere 形容詞 真誠的
+82,generous,形容詞,慷慨的 112 smart 形容詞 聰明的
+83,greedy,形容詞,貪心的 113 sneaky 形容詞 鬼鬼祟祟的
+84,happy,形容詞,快樂的 114 stingy 形容詞 小氣的
+85,hard-working,形容詞,努力工作的 115 stupid 形容詞 笨的
+86,honest,形容詞,誠實的 116 successful 形容詞 成功的
+87,humble,形容詞,謙虛的 117 talkative 形容詞 健談的
+88,humorous,形容詞,幽默的 118 unhappy 形容詞 不快樂的
+89,impolite,形容詞,不禮貌的 119 wise 形容詞 有智慧的
+90,intelligent,形容詞,有智慧的 120 beard 名詞 鬍鬚
+91,interested,形容詞,感興趣的 121 chin 名詞 下巴
+92,jealous,形容詞,嫉妒的 122 ear 名詞 耳朵
+123,eye,名詞,眼睛
+124,face,名詞,臉
+94,lazy,形容詞,懶惰的 125 hair 名詞 頭髮
+95,lonely,形容詞,孤獨的 126 lip 名詞 嘴唇
+127,mouth,名詞,嘴巴 159 sick 形容詞 生病的
+128,nose,名詞,鼻子 160 strong 形容詞 強壯的
+129,tongue,名詞,舌頭 161 tired 形容詞 疲倦的
+130,tooth,名詞,牙齒 162 weak 形容詞 虛弱的
+131,ankle,名詞,腳踝 163 well 形容詞 身體健康的
+132,arm,名詞,手臂 164 wound 名詞 創傷；傷口
+133,back,名詞,背部 165 cancer 名詞 癌症
+134,body,名詞,身體 166 cold 名詞 感冒
+135,bone,名詞,骨頭 167 flu 名詞 流行性感冒
+136,finger,名詞,手指 168 headache 名詞 頭痛
+137,foot,名詞,腳 169 stomachache 名詞 胃痛
+138,hand,名詞,手 170 toothache 名詞 牙痛
+139,head,名詞,頭 171 cough 名詞 咳嗽
+140,hip,名詞,臀部 172 fever 名詞 發燒
+141,knee,名詞,膝蓋 173 pain 名詞 疼痛
+142,leg,名詞,腿 174 sore throat 名詞 喉嚨痛
+143,nail,名詞,指甲 175 cure 動詞 治癒
+144,neck,名詞,脖子 176 recover 動詞 恢復；痊癒
+145,shoulder,名詞,肩膀 177 death 名詞 死亡
+146,skin,名詞,皮膚 178 health 名詞 健康
+147,throat,名詞,喉嚨 179 life 名詞 生命
+148,thumb,名詞,拇指 180 medicine 名詞 藥物；醫學
+149,toe,名詞,腳趾 181 aunt 名詞 阿姨
+150,waist,名詞,腰部 182 brother 名詞 兄弟
+151,wrist,名詞,手腕 183 cousin 名詞 堂(表)兄弟姊妹
+152,heart,名詞,心臟 184 daughter 名詞 女兒
+153,stomach,名詞,胃 185 elder 名詞 長輩
+154,comfortable,形容詞,舒服的 186 family 名詞 家庭
+155,dizzy,形容詞,頭暈的 187 father 名詞 父親
+156,healthy,形容詞,健康的 188 granddaughter 名詞 孫女
+157,painful,形容詞,疼痛的 189 grandfather 名詞 祖父
+158,pale,形容詞,蒼白的 190 grandmother 名詞 祖母
+191,grandson,名詞,孫子 223 seventeen 名詞 十七
+192,husband,名詞,丈夫 224 eighteen 名詞 十八
+193,mother,名詞,母親 225 nineteen 名詞 十九
+194,nephew,名詞,侄子；外甥 226 twenty 名詞 二十
+195,niece,名詞,姪女；外甥女 227 thirty 名詞 三十
+196,parent,名詞,父母 228 forty 名詞 四十
+197,relative,名詞,親戚 229 fifty 名詞 五十
+198,sister,名詞,姊妹 230 sixty 名詞 六十
+199,son,名詞,兒子 231 seventy 名詞 七十
+200,uncle,名詞,叔叔；舅舅 232 eighty 名詞 八十
+201,wife,名詞,妻子 233 ninety 名詞 九十
+202,grow,動詞,成長；生長 234 hundred 名詞 百
+203,live,動詞,居住；生活 235 thousand 名詞 千
+204,marry,動詞,結婚 236 million 名詞 百萬
+205,married,形容詞,已婚的 237 first 名詞 第一
+206,zero,名詞,零 238 second 名詞 第二
+207,one,名詞,一 239 third 名詞 第三
+208,two,名詞,二 240 last 形容詞 最後的
+209,three,名詞,三 一些（用於可
+210,four,名詞,四 數）
+211,five,名詞,五 一點（用於不
+212,six,名詞,六
+213,seven,名詞,七
+243,a lot,副詞,很多
+214,eight,名詞,八
+244,any,限定詞,任何
+215,nine,名詞,九
+245,both,限定詞,兩者都
+216,ten,名詞,十
+217,eleven,名詞,十一
+218,twelve,名詞,十二
+219,thirteen,名詞,十三
+220,fourteen,名詞,十四
+221,fifteen,名詞,十五
+249,number,名詞,數字；數量
+222,sixteen,名詞,十六
+250,several,限定詞,幾個 281 December 名詞 十二月
+251,total,名詞,總數 282 season 名詞 季節
+252,dawn,名詞,黎明 283 spring 名詞 春天
+253,morning,名詞,早晨 284 summer 名詞 夏天
+254,noon,名詞,中午 285 autumn 名詞 秋天
+255,afternoon,名詞,下午 286 winter 名詞 冬天
+256,evening,名詞,傍晚 287 alarm clock 名詞 鬧鐘
+257,night,名詞,夜晚 288 calendar 名詞 日曆
+258,midnight,名詞,午夜 289 clock 名詞 時鐘
+259,Monday,名詞,星期一 290 watch 名詞 手錶
+260,Tuesday,名詞,星期二 291 stopwatch 名詞 碼表
+261,Wednesday,名詞,星期三 292 half 名詞 一半
+262,Thursday,名詞,星期四 293 hour 名詞 小時
+263,Friday,名詞,星期五 294 minute 名詞 分鐘
+264,Saturday,名詞,星期六 295 moment 名詞 片刻
+265,Sunday,名詞,星期日 296 o’clock 副詞 …點鐘
+266,week,名詞,星期；週 過（用於時
+268,weekend,名詞,週末 之一
+269,month,名詞,月 299 second 名詞 秒
+270,January,名詞,一月 300 time 名詞 時間
+271,February,名詞,二月 301 ago 副詞 以前
+272,March,名詞,三月 302 already 副詞 已經
+273,April,名詞,四月 303 current 形容詞 當前的
+274,May,名詞,五月 304 early 形容詞 早的
+275,June,名詞,六月 上一個的；最
+276,July,名詞,七月
+277,August,名詞,八月
+306,late,形容詞,晚的
+278,September,名詞,九月
+307,later,副詞,稍後
+279,October,名詞,十月
+308,next,形容詞,下一個的
+280,November,名詞,十一月
+309,now,副詞,現在
+310,once,副詞,曾經；一次 340 fruit 名詞 水果
+311,future,名詞,未來 341 apple 名詞 蘋果
+312,soon,副詞,很快；不久 342 banana 名詞 香蕉
+313,today,名詞,今天 343 grape 名詞 葡萄
+314,tonight,名詞,今晚 344 guava 名詞 番石榴
+315,tomorrow,名詞,明天 345 lemon 名詞 檸檬
+316,week,名詞,星期；週 346 mango 名詞 芒果
+317,weekend,名詞,週末 347 orange 名詞 柳橙
+318,year,名詞,年 348 papaya 名詞 木瓜
+319,yesterday,名詞,昨天 349 peach 名詞 桃子
+320,daily,形容詞,每日的 350 pear 名詞 梨子
+321,bill,名詞,帳單；紙鈔 351 pineapple 名詞 鳳梨
+322,cash,名詞,現金 352 strawberry 名詞 草莓
+353,tangerine,名詞,橘子
+354,tomato,名詞,番茄
+324,change,名詞,零錢 355 watermelon 名詞 西瓜
+325,coin,名詞,硬幣 356 vegetable 名詞 蔬菜
+326,credit card,名詞,信用卡 357 bean 名詞 豆子
+358,cabbage,名詞,高麗菜
+359,carrot,名詞,胡蘿蔔
+328,money,名詞,錢 360 corn 名詞 玉米
+329,price,名詞,價格 361 lettuce 名詞 生菜
+330,borrow,動詞,借入 362 nut 名詞 堅果
+331,buy,動詞,購買 363 onion 名詞 洋蔥
+332,charge,動詞,收費 364 potato 名詞 馬鈴薯
+333,cost,動詞,花費 365 pumpkin 名詞 南瓜
+334,earn,動詞,賺取 366 meat 名詞 肉
+335,lend,動詞,借出 367 beef 名詞 牛肉
+336,pay,動詞,支付 368 bread 名詞 麵包
+337,spend,動詞,花費 369 bun 名詞 小圓麵包
+338,cheap,形容詞,便宜的 370 cereal 名詞 穀物麥片
+339,expensive,形容詞,昂貴的 371 chicken 名詞 雞肉
+372,dumpling,名詞,餃子 404 cola 名詞 可樂
+373,egg,名詞,蛋 405 drink 動詞 喝
+374,fast food,名詞,速食 406 ice 名詞 冰
+375,fish,名詞,魚 407 juice 名詞 果汁
+376,flour,名詞,麵粉 408 liquid 名詞 液體
+377,food,名詞,食物 409 milk 名詞 牛奶
+378,fries,名詞,薯條 410 milk shake 名詞 奶昔
+379,ham,名詞,火腿 411 soda 名詞 汽水
+380,hamburger,名詞,漢堡 412 soft drink 名詞 軟性飲料
+381,hot dog,名詞,熱狗 413 tea 名詞 茶
+382,instant noodle,名詞,泡麵 414 water 名詞 水
+383,noodle,名詞,麵條 415 cake 名詞 蛋糕
+384,pizza,名詞,披薩 416 candy 名詞 糖果
+385,pork,名詞,豬肉 417 cheese 名詞 起司
+386,rice,名詞,米飯 418 chocolate 名詞 巧克力
+387,salad,名詞,沙拉 419 cookie 名詞 餅乾
+388,sandwich,名詞,三明治 420 dessert 名詞 甜點
+389,seafood,名詞,海鮮 421 doughnut 名詞 甜甜圈
+390,shrimp,名詞,蝦 422 ice cream 名詞 冰淇淋
+391,soup,名詞,湯 423 moon cake 名詞 月餅
+392,spaghetti,名詞,義大利麵 424 pie 名詞 派
+393,steak,名詞,牛排 425 popcorn 名詞 爆米花
+394,tofu,名詞,豆腐 426 toast 名詞 吐司
+395,breakfast,名詞,早餐 427 butter 名詞 奶油
+396,brunch,名詞,早午餐 428 ketchup 名詞 番茄醬
+397,dinner,名詞,晚餐 429 cream 名詞 鮮奶油
+398,lunch,名詞,午餐 430 jam 名詞 果醬
+399,meal,名詞,一餐 431 oil 名詞 油
+400,snack,名詞,點心 432 pepper 名詞 胡椒
+401,supper,名詞,消夜 433 soy sauce 名詞 醬油
+402,beer,名詞,啤酒 434 salt 名詞 鹽
+403,coffee,名詞,咖啡 435 sugar 名詞 糖
+436,vinegar,名詞,醋 468 coat 名詞 外套
+437,hungry,形容詞,餓的 469 dress 名詞 連身裙
+438,full,形容詞,飽的 470 jacket 名詞 夾克
+439,thirsty,形容詞,渴的 471 jeans 名詞 牛仔褲
+440,bitter,形容詞,苦的 472 pajamas 名詞 睡衣
+441,delicious,形容詞,美味的 473 pants 名詞 褲子
+442,hot,形容詞,辣的；熱的 474 raincoat 名詞 雨衣
+443,sour,形容詞,酸的 475 shirt 名詞 襯衫
+444,sweet,形容詞,甜的 476 T-shirt 名詞 T恤
+445,yummy,形容詞,好吃的 477 shorts 名詞 短褲
+446,bake,動詞,烘烤 478 skirt 名詞 裙子
+447,boil,動詞,煮沸 479 suit 名詞 西裝
+448,burn,動詞,燒焦 480 sweater 名詞 毛衣
+449,cook,動詞,烹調 481 swimsuit 名詞 泳衣
+450,eat,動詞,吃 482 uniform 名詞 制服
+451,order,動詞,點餐 483 underwear 名詞 內衣
+452,spread,動詞,塗抹 484 vest 名詞 背心
+453,menu,名詞,菜單 485 belt 名詞 皮帶
+454,diet,名詞,飲食；節食 486 button 名詞 鈕扣
+455,slice,動詞,切片 487 cap 名詞 棒球帽
+456,bowl,名詞,碗 488 comb 名詞 梳子
+457,chopsticks,名詞,筷子 489 contact lens 名詞 隱形眼鏡
+458,cup,名詞,杯子 490 earrings 名詞 耳環
+459,dish,名詞,盤子 491 glove 名詞 手套
+460,fork,名詞,叉子 492 handkerchief 名詞 手帕
+461,glass,名詞,玻璃杯 493 mask 名詞 口罩；面具
+462,knife,名詞,刀子 494 necklace 名詞 項鍊
+463,napkin,名詞,餐巾 495 pocket 名詞 口袋
+464,plate,名詞,平盤 496 purse 名詞 錢包（女用）
+465,spoon,名詞,湯匙 497 ring 名詞 戒指
+466,straw,名詞,吸管 498 scarf 名詞 圍巾
+499,shoes,名詞,鞋子
+467,blouse,名詞,女裝上衣
+500,slippers,名詞,拖鞋 532 football 名詞 美式足球
+501,sneakers,名詞,運動鞋 533 frisbee 名詞 飛盤
+502,socks,名詞,襪子 534 golf 名詞 高爾夫球
+503,tie,名詞,領帶 535 race 名詞 賽跑；競賽
+504,umbrella,名詞,雨傘 536 soccer 名詞 足球
+505,wallet,名詞,皮夾（男用） 537 softball 名詞 壘球
+506,hole,名詞,破洞 538 sports 名詞 運動
+507,spot,名詞,污點 539 table tennis 名詞 桌球
+508,clothes,名詞,衣服（總稱） 540 tennis 名詞 網球
+509,cotton,名詞,棉 541 volleyball 名詞 排球
+510,diamond,名詞,鑽石 542 barbecue 動詞 烤肉
+511,gold,名詞,黃金 543 bowling 名詞 保齡球
+512,silver,名詞,銀 544 camp 動詞 露營
+513,iron,動詞,熨燙 545 climb 動詞 攀爬
+514,wear,動詞,穿著 546 dance 動詞 跳舞
+515,black,名詞,黑色 547 draw 動詞 畫畫
+516,blue,名詞,藍色 548 exercise 動詞 運動
+517,brown,名詞,棕色 549 fish 動詞 釣魚
+518,color,名詞,顏色 550 hike 動詞 健行／遠足
+519,gray,名詞,灰色 551 jog 動詞 慢跑
+520,green,名詞,綠色 552 picnic 名詞 野餐
+521,orange,名詞,橙色 553 roller blade 動詞 溜直排輪
+522,pink,名詞,粉色 554 roller skate 動詞 溜輪鞋
+523,purple,名詞,紫色 555 run 動詞 跑步
+524,red,名詞,紅色 556 sail 動詞 航行
+525,white,名詞,白色 557 sing 動詞 唱歌
+526,yellow,名詞,黃色 558 skate 動詞 溜冰
+527,badminton,名詞,羽毛球 559 ski 動詞 滑雪
+528,ball,名詞,球 560 stamp 名詞 郵票
+529,baseball,名詞,棒球 561 surf 動詞 衝浪
+530,basketball,名詞,籃球 562 swim 動詞 游泳
+531,dodge ball,名詞,躲避球 563 travel 動詞 旅行
+564,trip,名詞,旅行 596 winner 名詞 贏家
+565,hobby,名詞,嗜好 597 fan 名詞 粉絲；愛好者
+566,band,名詞,樂團 598 apartment 名詞 公寓
+567,card,名詞,卡片 599 building 名詞 建築物
+568,cartoon,名詞,卡通 600 house 名詞 房子
+569,chess,名詞,西洋棋 601 home 名詞 家
+570,comic,名詞,漫書 602 basement 名詞 地下室
+571,computer game,名詞,電腦遊戲 603 bathroom 名詞 浴室
+572,doll,名詞,洋娃娃 604 bedroom 名詞 臥室
+573,drama,名詞,戲劇 605 dining room 名詞 餐廳
+574,drum,名詞,鼓 606 fence 名詞 柵欄
+575,film,名詞,電影 607 garage 名詞 車庫
+576,flute,名詞,長笛 608 garden 名詞 花園
+577,game,名詞,遊戲 609 hall 名詞 走廊；大廳
+578,guitar,名詞,吉他 610 kitchen 名詞 廚房
+579,instrument,名詞,樂器 611 living room 名詞 客廳
+580,movie,名詞,電影 612 room 名詞 房間
+581,music,名詞,音樂 613 yard 名詞 院子
+582,novel,名詞,小說 614 balcony 名詞 陽台
+583,paint,動詞,繪畫 615 ceiling 名詞 天花板
+584,piano,名詞,鋼琴 616 door 名詞 門
+585,pop music,名詞,流行音樂 617 downstairs 名詞 樓下
+586,puzzle,名詞,拼圖；謎題 618 floor 名詞 地板；樓層
+587,song,名詞,歌曲 619 gate 名詞 大門
+588,team,名詞,隊伍 620 roof 名詞 屋頂
+589,tent,名詞,帳篷 621 stairs 名詞 樓梯
+590,toy,名詞,玩具 622 upstairs 名詞 樓上
+591,trumpet,名詞,小喇叭 623 wall 名詞 牆
+592,violin,名詞,小提琴 624 window 名詞 窗戶
+593,lose,動詞,輸掉；失去 625 furniture 名詞 家具
+594,loser,名詞,輸家 626 armchair 名詞 扶手椅
+595,win,動詞,贏得 627 bath 名詞 浴缸
+628,bed,名詞,床 660 flashlight 名詞 手電筒
+629,bench,名詞,長凳 661 freezer 名詞 冷凍庫
+630,bookcase,名詞,書櫃 662 heater 名詞 暖氣
+631,chair,名詞,椅子 663 machine 名詞 機器
+632,closet,名詞,衣櫥 664 oven 名詞 烤箱
+633,couch,名詞,長沙發 665 radio 名詞 收音機
+634,curtain,名詞,窗簾 666 refrigerator 名詞 冰箱
+635,desk,名詞,書桌 667 speaker 名詞 喇叭
+636,drawer,名詞,抽屜 668 stove 名詞 爐子
+637,faucet,名詞,水龍頭 669 telephone 名詞 電話
+638,lamp,名詞,燈 670 television 名詞 電視
+639,light,名詞,燈；光 671 video 名詞 影片；錄影機
+640,mirror,名詞,鏡子 672 printer 名詞 印表機
+641,shelf,名詞,架子 673 basket 名詞 籃子
+642,sink,名詞,水槽 674 brick 名詞 磚塊
+643,sofa,名詞,沙發 675 bucket 名詞 水桶
+644,table,名詞,桌子 676 candle 名詞 蠟燭
+645,tub,名詞,浴缸 677 hammer 名詞 鐵鎚
+646,blanket,名詞,毯子 678 housework 名詞 家事
+647,carpet,名詞,地毯 679 key 名詞 鑰匙
+648,hanger,名詞,衣架 680 mat 名詞 地墊
+649,pillow,名詞,枕頭 681 needle 名詞 針
+650,sheet,名詞,床單 682 pan 名詞 平底鍋
+651,toothbrush,名詞,牙刷 683 teapot 名詞 茶壺
+652,soap,名詞,肥皂 684 umbrella 名詞 雨傘
+653,towel,名詞,毛巾 685 toilet 名詞 馬桶
+654,air conditioner,名詞,空調 686 trash can 名詞 垃圾桶
+655,camera,名詞,相機 687 wok 名詞 炒鍋
+656,computer,名詞,電腦 688 tube 名詞 管子
+657,dresser,名詞,梳妝台 689 build 動詞 建造
+658,dryer,名詞,烘乾機 690 clean 動詞 清潔
+659,fan,名詞,電風扇 691 decorate 動詞 裝飾
+692,design,動詞,設計 724 letter 名詞 信件；字母
+693,fix,動詞,修理 725 magazine 名詞 雜誌
+694,repair,動詞,修復 726 map 名詞 地圖
+695,sweep,動詞,清掃 727 marker 名詞 麥克筆
+696,wash,動詞,清洗 728 notebook 名詞 筆記本
+697,street,名詞,街道 729 page 名詞 頁
+698,elementary school,名詞,小學 730 paper 名詞 紙
+699,junior high school,名詞,初中 731 pen 名詞 筆
+700,kindergarten,名詞,幼兒園 732 pencil 名詞 鉛筆
+701,school,名詞,學校 733 pencil box 名詞 鉛筆盒
+702,senior high school,名詞,高中 734 picture 名詞 圖片
+703,university,名詞,大學 735 postcard 名詞 明信片
+704,campus,名詞,校園 736 present 名詞 禮物
+705,classroom,名詞,教室 737 ruler 名詞 尺
+706,guard,名詞,警衛 738 sheet 名詞 一張（紙）
+707,gym,名詞,體育館 739 textbook 名詞 教科書
+708,playground,名詞,操場；遊樂場 740 workbook 名詞 練習本
+709,library,名詞,圖書館 741 backpack 名詞 背包
+710,seesaw,名詞,翹翹板 742 course 名詞 課程
+711,slide,名詞,溜滑梯 743 art 名詞 藝術
+712,board,名詞,板子 744 Chinese 名詞 中文
+713,blackboard,名詞,黑板 745 English 名詞 英文
+714,book,名詞,書本 746 geography 名詞 地理
+715,chalk,名詞,粉筆 747 history 名詞 歷史
+716,crayon,名詞,蠟筆 748 biology 名詞 生物
+717,diary,名詞,日記 749 chemistry 名詞 化學
+718,dictionary,名詞,字典 750 physics 名詞 物理
+719,envelope,名詞,信封 751 language 名詞 語言
+720,eraser,名詞,橡皮擦 752 law 名詞 法律
+721,glasses,名詞,眼鏡 753 math 名詞 數學
+722,glue,名詞,膠水 754 music 名詞 音樂
+723,ink,名詞,墨水 755 science 名詞 科學
+756,social science,名詞,社會科學 788 conversation 名詞 對話
+757,cheerleader,名詞,啦啦隊 789 draw 動詞 畫畫
+758,class leader,名詞,班長 790 exam 名詞 考試
+759,classmate,名詞,同學 791 example 名詞 例子
+760,friend,名詞,朋友 792 exercise 名詞 練習
+761,principal,名詞,校長 793 final 形容詞 最終的
+762,student,名詞,學生 794 grade 名詞 年級；成績
+763,teacher,名詞,老師 795 homework 名詞 家庭作業
+764,answer,動詞,回答 796 knowledge 名詞 知識
+765,ask,動詞,詢問 797 lesson 名詞 課
+766,behave,動詞,守規矩 798 poem 名詞 詩
+767,explain,動詞,解釋 799 problem 名詞 問題
+768,learn,動詞,學習 800 question 名詞 問題
+769,listen,動詞,聆聽 801 quiz 名詞 小考
+770,mark,動詞,批改 802 record 名詞 紀錄
+771,pass,動詞,通過 803 score 名詞 分數
+772,practice,動詞,練習 804 story 名詞 故事
+773,prepare,動詞,準備 805 test 名詞 測驗
+774,pronounce,動詞,發音 806 vocabulary 名詞 字彙
+775,punish,動詞,懲罰 807 semester 名詞 學期
+776,read,動詞,閱讀 808 position 名詞 位置
+777,repeat,動詞,重複 809 back 形容詞 後面的
+778,review,動詞,複習 810 backward 副詞 向後
+779,say,動詞,說 811 forward 副詞 向前
+780,speak,動詞,說話 812 front 形容詞 前面的
+781,spell,動詞,拼寫 813 left 形容詞 左邊的
+782,study,動詞,研讀 814 middle 形容詞 中間的
+783,talk,動詞,談話 815 right 形容詞 右邊的
+784,teach,動詞,教學 816 east 形容詞 東方的
+785,underline,動詞,畫底線 817 west 形容詞 西方的
+786,understand,動詞,理解 818 south 形容詞 南方的
+787,write,動詞,書寫 819 north 形容詞 北方的
+820,top,形容詞,頂部的 852 stationery store 名詞 文具店
+821,bakery,名詞,麵包店 853 store 名詞 商店
+822,bank,名詞,銀行 854 supermarket 名詞 超市
+823,beach,名詞,海灘 855 temple 名詞 寺廟
+824,bookstore,名詞,書店 856 theater 名詞 劇院
+825,buffet,名詞,自助餐 857 waterfalls 名詞 瀑布
+826,cafeteria,名詞,自助餐廳 858 zoo 名詞 動物園
+827,church,名詞,教堂 859 city 名詞 城市
+828,convenience store,名詞,便利商店 860 country 名詞 國家；鄉下
+829,culture center,名詞,文化中心 861 downtown 名詞 市中心
+830,department store,名詞,百貨公司 862 farm 名詞 農場
+831,drugstore,名詞,藥局 863 place 名詞 地方
+832,factory,名詞,工廠 864 town 名詞 城鎮
+833,fast food restaurant,名詞,速食餐廳 865 village 名詞 村莊
+834,fire station,名詞,消防局 866 local 形容詞 當地的
+835,flower shop,名詞,花店 867 international 形容詞 國際的
+836,hospital,名詞,醫院 868 airplane 名詞 飛機
+837,hotel,名詞,飯店 869 ambulance 名詞 救護車
+838,mall,名詞,購物中心 870 bicycle 名詞 腳踏車
+839,market,名詞,市場 871 boat 名詞 船
+872,bus,名詞,公車
+873,car,名詞,汽車
+842,movie theater,名詞,電影院 874 helicopter 名詞 直升機
+843,museum,名詞,博物館 875 jeep 名詞 吉普車
+844,office,名詞,辦公室 876 motorcycle 名詞 摩托車
+845,park,名詞,公園 速克達；小摩
+846,pool,名詞,游泳池 托車
+847,post office,名詞,郵局 878 ship 名詞 船（大船）
+848,police station,名詞,警察局 879 tank 名詞 坦克車
+849,restroom,名詞,洗手間 880 taxi 名詞 計程車
+850,restaurant,名詞,餐廳 881 train 名詞 火車
+851,shop,名詞,商店 882 truck 名詞 卡車
+883,airlines,名詞,航空公司 915 foot 名詞 英尺
+884,airport,名詞,機場 916 gram 名詞 公克
+885,bus stop,名詞,公車站 917 inch 名詞 英吋
+886,parking lot,名詞,停車場 918 kilogram 名詞 公斤
+887,station,名詞,車站 919 kilometer 名詞 公里
+888,train station,名詞,火車站 920 liter 名詞 公升
+889,block,名詞,街區 921 meter 名詞 公尺
+890,bridge,名詞,橋樑 922 mile 名詞 英里
+891,flat tire,名詞,爆胎 923 pound 名詞 磅
+892,highway,名詞,高速公路 924 yard 名詞 碼
+893,overpass,名詞,天橋；陸橋 925 circle 名詞 圓形
+894,passenger,名詞,乘客 926 dot 名詞 點
+895,path,名詞,小徑 927 line 名詞 線
+896,platform,名詞,月台 928 point 名詞 點；尖端
+897,railroad,名詞,鐵路 929 rectangle 名詞 長方形
+898,railway,名詞,鐵道 930 row 名詞 排；行
+899,sidewalk,名詞,人行道 931 shape 名詞 形狀
+900,subway,名詞,地鐵 932 square 名詞 正方形
+901,traffic,名詞,交通 933 triangle 名詞 三角形
+902,underpass,名詞,地下道 934 angle 名詞 角度
+903,wheel,名詞,輪子 935 big 形容詞 大的
+904,arrive,動詞,到達 936 deep 形容詞 深的
+905,cross,動詞,穿越 937 distant 形容詞 遙遠的
+906,drive,動詞,開車 938 extra 形容詞 額外的
+907,fly,動詞,飛行 939 far 形容詞 遠的
+908,land,動詞,降落 940 high 形容詞 高的
+909,ride,動詞,騎乘；搭乘 941 large 形容詞 大的
+910,sail,動詞,航行 942 light 形容詞 輕的
+911,turn,動詞,轉彎 943 little 形容詞 小的
+912,fast,形容詞,快的 944 long 形容詞 長的
+913,slow,形容詞,慢的 945 low 形容詞 低的
+914,centimeter,名詞,公分 946 maximum 形容詞 最大的
+947,medium,形容詞,中等的 977 Moon Festival 名詞 中秋節
+948,minus,名詞,負號 978 Teacher’s Day 名詞 教師節
+949,narrow,形容詞,窄的 979 Christmas 名詞 聖誕節
+950,plus,名詞,加號 980 Easter 名詞 復活節
+951,short,形容詞,短的；矮的 981 Halloween 名詞 萬聖節
+952,small,形容詞,小的 982 New Year’s Day 名詞 元旦
+953,straight,形容詞,直的 983 Mother’s Day 名詞 母親節
+954,tiny,形容詞,微小的 984 Father’s Day 名詞 父親節
+955,wide,形容詞,寬的 985 Thanksgiving 名詞 感恩節
+956,round,形容詞,圓形的 986 Valentine’s Day 名詞 情人節
+957,bottle,名詞,瓶 987 culture 名詞 文化
+958,cup,名詞,杯 988 custom 名詞 習俗
+989,festival,名詞,節慶
+990,holiday,名詞,假日
+960,glass,名詞,玻璃杯 991 lantern 名詞 燈籠
+961,loaf,名詞,條（麵包） 992 vacation 名詞 假期
+962,pack,名詞,包 993 memory 名詞 記憶；回憶
+963,package,名詞,包裹 994 celebrate 動詞 慶祝
+964,pair,名詞,一雙；一對 995 actor 名詞 男演員
+965,piece,名詞,片；塊；件 996 actress 名詞 女演員
+966,size,名詞,尺寸 997 artist 名詞 藝術家
+967,height,名詞,高度 998 assistant 名詞 助理
+968,distance,名詞,距離 999 baby sitter 名詞 保母
+969,weight,名詞,重量 1000 barber 名詞 理髮師
+970,amount,名詞,數量 1001 boss 名詞 老闆
+971,measure,動詞,測量 1002 businessman 名詞 商人
+972,Chinese New Year,名詞,春節 1003 clerk 名詞 店員；職員
+1004,cook,名詞,廚師
+974,Double Tenth Day,名詞,雙十節 1005 dentist 名詞 牙醫
+1006,diplomat,名詞,外交官
+1007,doctor,名詞,醫生
+976,Lantern Festival,名詞,元宵節 1008 driver 名詞 司機
+1009,engineer,名詞,工程師 服務生（女
+1010,farmer,名詞,農夫 性）
+1011,fisherman,名詞,漁夫 1041 writer 名詞 作家
+1012,guide,名詞,導遊 1042 vendor 名詞 小販
+1013,hair dresser,名詞,髮型師 1043 business 名詞 商業；生意
+1014,housewife,名詞,家庭主婦 1044 company 名詞 公司
+1015,hunter,名詞,獵人 1045 employ 動詞 雇用
+1016,journalist,名詞,記者 1046 hire 動詞 雇用
+1017,judge,名詞,法官 1047 weather 名詞 天氣
+1018,lawyer,名詞,律師 1048 clear 形容詞 晴朗的
+1019,magician,名詞,魔術師 1049 cloudy 形容詞 多雲的
+1020,mailman,名詞,郵差 1050 cold 形容詞 寒冷的
+1021,manager,名詞,經理 1051 cool 形容詞 涼爽的
+1022,mechanic,名詞,技工 1052 dry 形容詞 乾燥的
+1023,model,名詞,模特兒 1053 foggy 形容詞 有霧的
+1024,musician,名詞,音樂家 1054 freezing 形容詞 極冷的
+1025,nurse,名詞,護士 1055 hot 形容詞 炎熱的
+1026,painter,名詞,畫家 1056 humid 形容詞 潮濕的
+1027,police officer,名詞,警察 1057 rainy 形容詞 下雨的
+1028,president,名詞,總統 1058 snowy 形容詞 下雪的
+1029,priest,名詞,神父 1059 stormy 形容詞 暴風雨的
+1030,reporter,名詞,記者 1060 sunny 形容詞 陽光充足的
+1031,sailor,名詞,水手 1061 warm 形容詞 溫暖的
+1032,salesman,名詞,銷售員 1062 wet 形容詞 潮濕的
+1033,scientist,名詞,科學家 1063 windy 形容詞 多風的
+1034,secretary,名詞,秘書 1064 fog 名詞 霧
+1035,servant,名詞,僕人 1065 lightning 名詞 閃電
+1036,shopkeeper,名詞,店主 1066 rainbow 名詞 彩虹
+1037,singer,名詞,歌手 1067 shower 名詞 陣雨
+1038,soldier,名詞,士兵 1068 snow 名詞 雪
+1069,storm,名詞,暴風雨
+1070,thunder,名詞,雷聲
+1071,typhoon,名詞,颱風 1103 pool 名詞 水池
+1072,wind,名詞,風 1104 river 名詞 河流
+1073,blow,動詞,吹 1105 sea 名詞 海
+1074,rain,動詞,下雨 1106 spring 名詞 泉水
+1075,shine,動詞,照耀 1107 stream 名詞 溪流
+1076,nature,名詞,大自然 1108 valley 名詞 山谷
+1077,natural,形容詞,自然的 1109 woods 名詞 樹林
+1078,air,名詞,空氣 1110 animal 名詞 動物
+1079,climate,名詞,氣候 1111 bear 名詞 熊
+1080,cloud,名詞,雲 1112 cat 名詞 貓
+1081,degree,名詞,度數 1113 chicken 名詞 雞
+1082,earth,名詞,地球 1114 cow 名詞 牛
+1083,earthquake,名詞,地震 1115 deer 名詞 鹿
+1084,moon,名詞,月亮 1116 dinosaur 名詞 恐龍
+1085,sky,名詞,天空 1117 dog 名詞 狗
+1086,sun,名詞,太陽 1118 donkey 名詞 驢
+1087,star,名詞,星星 1119 duck 名詞 鴨
+1088,temperature,名詞,溫度 1120 eagle 名詞 老鷹
+1089,area,名詞,區域 1121 elephant 名詞 大象
+1090,bank,名詞,河岸 1122 fox 名詞 狐狸
+1091,beach,名詞,海灘 1123 frog 名詞 青蛙
+1092,coast,名詞,海岸 1124 goat 名詞 山羊
+1093,desert,名詞,沙漠 1125 goose 名詞 鵝
+1094,environment,名詞,環境 1126 hen 名詞 母雞
+1095,forest,名詞,森林 1127 hippo 名詞 河馬
+1096,hill,名詞,山丘 1128 horse 名詞 馬
+1097,island,名詞,島嶼 1129 kangaroo 名詞 袋鼠
+1098,lake,名詞,湖泊 1130 kitten 名詞 小貓
+1099,mountain,名詞,山 1131 koala 名詞 無尾熊
+1100,ocean,名詞,海洋 1132 lamb 名詞 小羊
+1101,plain,名詞,平原 1133 lion 名詞 獅子
+1102,pond,名詞,池塘 1134 monkey 名詞 猴子
+1135,monster,名詞,怪物 1167 dolphin 名詞 海豚
+1136,mouse,名詞,老鼠 1168 fish 名詞 魚
+1137,ox,名詞,公牛 1169 shark 名詞 鯊魚
+1138,panda,名詞,熊貓 1170 shrimp 名詞 蝦
+1139,parrot,名詞,鸚鵡 1171 turtle 名詞 烏龜
+1140,pet,名詞,寵物 1172 whale 名詞 鯨魚
+1141,pig,名詞,豬 1173 bark 動詞 吠叫
+1142,pigeon,名詞,鴿子 1174 bite 動詞 咬
+1143,puppy,名詞,小狗 1175 swallow 動詞 吞嚥
+1144,rabbit,名詞,兔子 1176 tail 名詞 尾巴
+1145,rat,名詞,大鼠 1177 wing 名詞 翅膀
+1146,sheep,名詞,綿羊 這個（近指單
+1147,swan,名詞,天鵝 數）
+1148,tiger,名詞,老虎 那個（遠指單
+1149,turkey,名詞,火雞 數）
+1150,wolf,名詞,狼 這些（近指複
+1151,zebra,名詞,斑馬 數）
+1152,insect,名詞,昆蟲 那些（遠指複
+1153,ant,名詞,螞蟻 數）
+1154,bat,名詞,蝙蝠 1182 my 所有格 我的
+1155,bee,名詞,蜜蜂 1183 our 所有格 我們的
+1156,bird,名詞,鳥 1184 your 所有格 你的；你們的
+1157,bug,名詞,小蟲 1185 his 所有格 他的
+1158,butterfly,名詞,蝴蝶 1186 her 所有格 她的
+1159,cockroach,名詞,蟑螂 1187 its 所有格 它的
+1160,dragon,名詞,龍 1188 their 所有格 他們的
+1161,mosquito,名詞,蚊子 代名詞
+1162,snail,名詞,蝸牛 (主格)
+1163,snake,名詞,蛇 代名詞
+1164,spider,名詞,蜘蛛 (受格)
+1165,worm,名詞,蠕蟲 1191 my 所有格 我的
+1166,crab,名詞,螃蟹 1192 mine 代名詞 我的
+1193,myself,代名詞,我自己 代名詞
+1195,your,所有格,你的；你們的 的
+1196,yours,代名詞,你的；你們的 他們的；它們
+1197,yourself,代名詞,你自己 的
+1198,yourselves,代名詞,你們自己 他們自己；它
+1220,all,代名詞,全部；所有
+1221,another,代名詞,另一個
+1222,any,代名詞,任何
+1201,his,代名詞,他的 1223 anyone 代名詞 任何人
+1202,himself,代名詞,他自己 1224 anything 代名詞 任何事
+1225,both,代名詞,兩者
+1226,each,代名詞,每個
+1227,everyone,代名詞,每個人
+1228,everything,代名詞,每件事
+1205,hers,代名詞,她的 1229 many 代名詞 許多（可數）
+1206,herself,代名詞,她自己 1230 nobody 代名詞 沒有人
+1231,nothing,代名詞,沒有東西
+1232,part,名詞,部分
+1208,its,所有格,它的 1233 some 代名詞 一些
+1209,itself,代名詞,它自己 1234 someone 代名詞 某人
+1235,something,代名詞,某事
+1236,how,疑問詞,如何
+1237,what,疑問詞,什麼
+1238,which,疑問詞,哪一個
+1212,our,所有格,我們的
+1239,who,疑問詞,誰
+1213,ours,代名詞,我們的
+1240,whose,疑問詞,誰的
+1214,ourselves,代名詞,我們自己
+1241,when,疑問詞,何時
+1242,where,疑問詞,在哪裡
+1243,whether,連接詞,是否
+1244,while,連接詞,當…時；然而 1269 inside 介系詞 在…裡面
+1245,why,疑問詞,為什麼 1270 into 介系詞 進入
+1246,about,介系詞,關於；大約 1271 like 介系詞 像…
+1247,above,介系詞,在…上面 1272 near 介系詞 靠近
+1248,across,介系詞,橫越 1273 of 介系詞 …的；關於
+1249,after,介系詞,在…之後 離開；從…下
+1250,against,介系詞,反對；靠著 來
+1251,along,介系詞,沿著 在…上面（接
+1276,out of,介系詞,從…裡面出來
+1277,outside,介系詞,在…外面
+1254,before,介系詞,在…之前 越過
+1255,behind,介系詞,在…後面 緊鄰；在…旁
+1256,below,介系詞,在…下面
+1257,beside,介系詞,在…旁邊
+1280,since,介系詞,自從…
+1281,than,介系詞,比…
+1282,through,介系詞,穿過；透過
+1283,to,介系詞,到…；向…
+1284,toward,介系詞,朝向…
+1285,under,介系詞,在…下面
+1286,until,介系詞,直到…
+1261,down,介系詞,沿…而下 1287 up 介系詞 沿…而上
+1262,during,介系詞,在…期間 和…一起；
+1263,except,介系詞,除了…之外 用…
+1289,without,介系詞,沒有…
+1290,and,連接詞,和；並且
+1265,from,介系詞,從…；來自… 1291 because 連接詞 因為
+1292,besides,副詞,此外；而且
+1293,but,連接詞,但是
+1267,in back of,介系詞,在…後面 1294 however 副詞 然而
+1268,in front of,介系詞,在…前面 1295 if 連接詞 如果
+1296,or,連接詞,或者 1328 branch 名詞 樹枝；分支
+1297,since,連接詞,自從；既然 1329 bundle 名詞 捆；束
+1298,than,連接詞,比 1330 cable 名詞 電纜
+1299,therefore,副詞,因此 1331 cage 名詞 籠子
+1300,though,連接詞,雖然 1332 can 名詞 罐頭
+1301,accident,名詞,事故 1333 captain 名詞 隊長；船長
+1302,action,名詞,行動 1334 case 名詞 案例；箱子
+1303,activity,名詞,活動 1335 castle 名詞 城堡
+1304,advertisement,名詞,廣告 1336 cause 名詞 原因
+1305,advice,名詞,建議 1337 cellphone 名詞 手機
+1306,age,名詞,年齡；時代 1338 center 名詞 中心
+1307,aim,名詞,目標 1339 century 名詞 世紀
+1308,alarm,名詞,鬧鐘；警報 1340 chance 名詞 機會
+1309,album,名詞,相冊；專輯 1341 channel 名詞 頻道；海峽
+1310,American,名詞,美國人 1342 character 名詞 角色；性格
+1311,anger,名詞,憤怒 1343 chart 名詞 圖表
+1312,army,名詞,軍隊 1344 cheer 名詞 歡呼
+1313,Asian,名詞,亞洲人 1345 childhood 名詞 童年
+1314,attention,名詞,注意力 1346 choice 名詞 選擇
+1315,balloon,名詞,氣球 1347 club 名詞 俱樂部
+1316,band,名詞,樂隊；帶子 1348 coach 名詞 教練
+1317,base,名詞,基礎；基地 1349 command 名詞 命令
+1318,beauty,名詞,美麗 1350 congratulation 名詞 祝賀
+1319,beginner,名詞,初學者 1351 contract 名詞 合約
+1320,beginning,名詞,開始 1352 corner 名詞 角落
+1321,bell,名詞,鈴鐺 1353 courage 名詞 勇氣
+1322,birthday,名詞,生日 1354 court 名詞 法庭；球場
+1323,blank,名詞,空白 1355 crime 名詞 犯罪
+1324,blood,名詞,血液 1356 crowd 名詞 人群
+1325,bomb,名詞,炸彈 1357 curve 名詞 曲線
+1326,bottom,名詞,底部 1358 damage 名詞 損害
+1327,box,名詞,盒子 1359 danger 名詞 危險
+1360,debate,名詞,辯論 1392 flag 名詞 旗幟
+1361,decision,名詞,決定 1393 flight 名詞 飛行；航班
+1362,department,名詞,部門；系 1394 foreigner 名詞 外國人
+1363,desire,名詞,慾望 1395 flower 名詞 花
+1364,difference,名詞,差異 1396 freedom 名詞 自由
+1365,difficulty,名詞,困難 1397 friendship 名詞 友誼
+1366,direction,名詞,方向 1398 fun 名詞 樂趣
+1367,discussion,名詞,討論 1399 garbage 名詞 垃圾
+1368,dream,名詞,夢想 1400 gas 名詞 瓦斯；汽油
+1369,duty,名詞,責任 1401 gesture 名詞 手勢
+1370,edge,名詞,邊緣 1402 ghost 名詞 鬼魂
+1371,education,名詞,教育 1403 gift 名詞 禮物
+1372,effort,名詞,努力 1404 goal 名詞 目標
+1373,e-mail,名詞,電子郵件 1405 government 名詞 政府
+1374,emotion,名詞,情緒 1406 grass 名詞 草
+1375,enemy,名詞,敵人 1407 ground 名詞 地面
+1376,energy,名詞,能量 1408 group 名詞 群組
+1377,engine,名詞,引擎 1409 gun 名詞 槍
+1378,entrance,名詞,入口 1410 habit 名詞 習慣
+1379,error,名詞,錯誤 1411 haircut 名詞 理髮
+1380,eve,名詞,前夕 1412 heat 名詞 熱
+1381,event,名詞,事件 1413 honesty 名詞 誠實
+1382,excuse,名詞,藉口 1414 honey 名詞 蜂蜜；親愛的
+1383,exit,名詞,出口 1415 human 名詞 人類
+1384,experience,名詞,經驗 1416 humor 名詞 幽默
+1385,fact,名詞,事實 1417 hunger 名詞 飢餓
+1386,fault,名詞,過錯 1418 idea 名詞 主意
+1387,fear,名詞,恐懼 1419 importance 名詞 重要性
+1388,fee,名詞,費用 1420 income 名詞 收入
+1389,feeling,名詞,感覺 1421 influence 名詞 影響
+1390,file,名詞,檔案 1422 information 名詞 資訊
+1391,fire,名詞,火 1423 interest 名詞 興趣
+1424,Internet,名詞,網際網路 1456 nest 名詞 鳥巢
+1425,interview,名詞,面試；訪談 1457 news 名詞 新聞
+1426,invitation,名詞,邀請 1458 newspaper 名詞 報紙
+1427,item,名詞,項目 1459 noise 名詞 噪音
+1428,Japanese,名詞,日本人 1460 note 名詞 筆記；音符
+1429,joke,名詞,笑話 1461 operation 名詞 操作；手術
+1430,joy,名詞,歡樂 1462 opinion 名詞 意見
+1431,kind,名詞,種類 1463 order 名詞 命令；訂單
+1432,kingdom,名詞,王國 1464 party 名詞 派對；政黨
+1433,Korean,名詞,韓國人 1465 pattern 名詞 模式
+1434,lack,名詞,缺乏 1466 peace 名詞 和平
+1435,leader,名詞,領袖 1467 period 名詞 時期
+1436,leaf,名詞,葉子 1468 photo 名詞 照片
+1437,level,名詞,水平 1469 pile 名詞 堆
+1438,lid,名詞,蓋子 1470 pin 名詞 大頭針
+1439,link,名詞,連結 1471 pipe 名詞 管子
+1440,locker,名詞,鎖櫃 1472 planet 名詞 行星
+1441,mail,名詞,郵件 1473 player 名詞 玩家；球員
+1442,manner,名詞,禮貌；方式 1474 poison 名詞 毒藥
+1443,mass,名詞,團；大量 1475 pollution 名詞 污染
+1444,matter,名詞,事情 1476 population 名詞 人口
+1445,meeting,名詞,會議 1477 powder 名詞 粉末
+1446,member,名詞,成員 1478 power 名詞 力量；電力
+1447,message,名詞,訊息 1479 pressure 名詞 壓力
+1448,metal,名詞,金屬 1480 prize 名詞 獎品
+1449,method,名詞,方法 1481 production 名詞 生產
+1450,metro,名詞,地鐵 1482 program 名詞 節目；程式
+1451,mind,名詞,心智 1483 progress 名詞 進步
+1452,mistake,名詞,錯誤 1484 project 名詞 專案
+1453,motion,名詞,動作 1485 purpose 名詞 目的
+1454,movement,名詞,運動 1486 reason 名詞 理由
+1455,mud,名詞,泥巴 1487 report 名詞 報告
+1488,result,名詞,結果 1520 speech 名詞 演講
+1489,robot,名詞,機器人 1521 speed 名詞 速度
+1490,rock,名詞,岩石 1522 spirit 名詞 精神
+1491,role,名詞,角色 1523 state 名詞 狀態；州
+1492,root,名詞,根 1524 steam 名詞 蒸汽
+1493,rope,名詞,繩子 1525 step 名詞 步驟；腳步
+1494,rose,名詞,玫瑰 1526 stone 名詞 石頭
+1495,rule,名詞,規則 1527 story 名詞 故事
+1496,safety,名詞,安全 1528 string 名詞 細繩
+1497,sale,名詞,拍賣；銷售 1529 style 名詞 風格
+1498,sample,名詞,樣品 1530 subject 名詞 主題；科目
+1499,sand,名詞,沙子 1531 success 名詞 成功
+1500,scene,名詞,場景 1532 swing 名詞 鞦韆；搖擺
+1501,scenery,名詞,風景 1533 symbol 名詞 符號
+1502,screen,名詞,螢幕 1534 system 名詞 系統
+1503,secret,名詞,秘密 1535 Taiwanese 名詞 台灣人
+1504,seat,名詞,座位 1536 talent 名詞 天賦
+1505,section,名詞,部分 1537 tear 名詞 眼淚
+1506,seed,名詞,種子 1538 term 名詞 學期
+1507,sense,名詞,感覺；理智 1539 thief 名詞 小偷
+1508,sentence,名詞,句子 1540 thing 名詞 東西
+1509,service,名詞,服務 1541 thought 名詞 想法
+1510,set,名詞,一套 1542 ticket 名詞 票
+1511,shore,名詞,岸 1543 tip 名詞 小費；提示
+1512,side,名詞,邊；側 1544 title 名詞 標題
+1513,sight,名詞,景象 1545 tool 名詞 工具
+1514,silence,名詞,寂靜 1546 topic 名詞 話題
+1515,skill,名詞,技能 1547 tower 名詞 塔
+1516,smile,名詞,微笑 1548 trade 名詞 貿易
+1517,society,名詞,社會 1549 tradition 名詞 傳統
+1518,soul,名詞,靈魂 1550 trash 名詞 垃圾
+1519,space,名詞,空間 1551 treasure 名詞 寶藏
+1552,treat,名詞,款待 1584 survive 動詞 生存
+1553,tree,名詞,樹 1585 affect 動詞 影響
+1554,trick,名詞,詭計 1586 believe 動詞 相信
+1555,trouble,名詞,麻煩 1587 blame 動詞 責備
+1556,truth,名詞,真相 1588 bother 動詞 打擾
+1557,tunnel,名詞,隧道 1589 confuse 動詞 混淆
+1558,universe,名詞,宇宙 1590 consider 動詞 考慮
+1559,value,名詞,價值 1591 develop 動詞 發展
+1560,victory,名詞,勝利 1592 divide 動詞 分割
+1561,voice,名詞,聲音 1593 doubt 動詞 懷疑
+1562,war,名詞,戰爭 1594 ease 動詞 緩和
+1563,way,名詞,方式；道路 1595 embarrass 動詞 使尷尬
+1564,wedding,名詞,婚禮 1596 forgive 動詞 原諒
+1565,wood,名詞,木材 1597 forget 動詞 忘記
+1566,word,名詞,字詞 1598 frighten 動詞 使害怕
+1567,memory,名詞,記憶 1599 gather 動詞 聚集
+1568,net,名詞,網 1600 guess 動詞 猜測
+1569,principle,名詞,原則 1601 hate 動詞 討厭
+1570,feel,動詞,感覺 1602 hope 動詞 希望
+1571,hear,動詞,聽見 1603 imagine 動詞 想像
+1572,listen,動詞,聆聽 1604 inspire 動詞 激勵
+1573,look,動詞,看 1605 know 動詞 知道
+1574,see,動詞,看見 1606 like 動詞 喜歡
+1575,smell,動詞,聞 1607 love 動詞 愛
+1576,sound,動詞,聽起來 1608 mind 動詞 介意
+1577,taste,動詞,嘗起來 1609 need 動詞 需要
+1578,watch,動詞,觀看 1610 notice 動詞 注意到
+1579,check,動詞,檢查 1611 realize 動詞 意識到
+1580,complete,動詞,完成 1612 regret 動詞 後悔
+1581,end,動詞,結束 1613 remember 動詞 記得
+1582,finish,動詞,完成 1614 remind 動詞 提醒
+1583,succeed,動詞,成功 1615 surprise 動詞 使驚訝
+1616,think,動詞,思考 1648 define 動詞 定義
+1617,want,動詞,想要 1649 deliver 動詞 遞送
+1618,wish,動詞,希望 1650 drop 動詞 掉落
+1619,worry,動詞,擔心 1651 elect 動詞 選舉
+1620,bless,動詞,祝福 1652 enter 動詞 進入
+1621,act,動詞,表演；行動 1653 exist 動詞 存在
+1622,bathe,動詞,洗澡 1654 feed 動詞 餵食
+1623,beat,動詞,打擊 1655 fight 動詞 打架
+1624,blow,動詞,吹 1656 follow 動詞 跟隨
+1625,bow,動詞,鞠躬 1657 fry 動詞 油炸
+1626,break,動詞,打破 1658 go 動詞 去
+1627,bring,動詞,帶來 1659 greet 動詞 問候
+1628,brush,動詞,刷 1660 grow 動詞 成長
+1629,carry,動詞,攜帶 1661 guide 動詞 引導
+1630,catch,動詞,抓住 1662 hang 動詞 懸掛
+1631,chase,動詞,追逐 1663 help 動詞 幫助
+1632,cheat,動詞,欺騙 1664 hit 動詞 擊打
+1633,choose,動詞,選擇 1665 hold 動詞 握住
+1634,clap,動詞,拍手 1666 hop 動詞 單腳跳
+1635,close,動詞,關閉 1667 hunt 動詞 狩獵
+1636,come,動詞,來 1668 hurry 動詞 匆忙
+1637,control,動詞,控制 1669 jump 動詞 跳躍
+1638,collect,動詞,收集 1670 kick 動詞 踢
+1639,comment,動詞,評論 1671 knock 動詞 敲
+1640,correct,動詞,改正 1672 kill 動詞 殺死
+1641,copy,動詞,複製 1673 kiss 動詞 親吻
+1642,count,動詞,數數 1674 laugh 動詞 大笑
+1643,cover,動詞,覆蓋 1675 lay 動詞 放置（產卵）
+1644,cry,動詞,哭 1676 leave 動詞 離開
+1645,cut,動詞,切割 1677 lick 動詞 舔
+1646,dial,動詞,撥號 1678 lift 動詞 舉起
+1647,dig,動詞,挖掘 1679 list 動詞 列出
+1680,lock,動詞,鎖上 1712 shut 動詞 關閉
+1681,make,動詞,製作 1713 smoke 動詞 抽煙
+1682,meet,動詞,遇見 1714 sign 動詞 簽名
+1683,miss,動詞,想念；未擊中 1715 stand 動詞 站立
+1684,mix,動詞,混合 1716 steal 動詞 偷竊
+1685,move,動詞,移動 1717 strike 動詞 打擊；罷工
+1686,nod,動詞,點頭 1718 take 動詞 拿；帶
+1687,offer,動詞,提供 1719 tell 動詞 告訴
+1688,open,動詞,打開 1720 throw 動詞 丟擲
+1689,pack,動詞,打包 1721 touch 動詞 觸摸
+1690,park,動詞,停車 1722 type 動詞 打字
+1691,paste,動詞,貼上 1723 use 動詞 使用
+1692,pause,動詞,暫停 1724 vote 動詞 投票
+1693,pick,動詞,撿起；選擇 1725 walk 動詞 走路
+1694,plant,動詞,種植 1726 wave 動詞 揮手
+1695,print,動詞,列印 1727 hug 動詞 擁抱
+1696,pull,動詞,拉 1728 yell 動詞 大叫
+1697,produce,動詞,生產 1729 mop 動詞 用拖把拖地
+1698,protect,動詞,保護 1730 accept 動詞 接受
+1699,push,動詞,推 1731 add 動詞 增加
+1700,put,動詞,放 1732 admire 動詞 欽佩
+1701,recycle,動詞,回收 1733 advise 動詞 建議
+1702,revise,動詞,修改 1734 agree 動詞 同意
+1703,rise,動詞,上升 1735 allow 動詞 允許
+1704,roll,動詞,滾動 1736 apologize 動詞 道歉
+1705,rub,動詞,摩擦 1737 appear 動詞 出現
+1706,run,動詞,跑 1738 appreciate 動詞 欣賞；感謝
+1707,rob,動詞,搶劫 1739 argue 動詞 爭論
+1708,rest,動詞,休息 1740 arrange 動詞 安排
+1709,shake,動詞,搖動 1741 assume 動詞 假設
+1710,shoot,動詞,射擊 1742 attack 動詞 攻擊
+1711,shout,動詞,喊叫 1743 avoid 動詞 避免
+1744,become,動詞,變成 1776 excite 動詞 使興奮
+1745,begin,動詞,開始 1777 expect 動詞 預期
+1746,belong,動詞,屬於 1778 explain 動詞 解釋
+1747,broadcast,動詞,廣播 1779 express 動詞 表達
+1748,burst,動詞,爆發 1780 fall 動詞 掉落
+1749,call,動詞,打電話；呼叫 1781 fill 動詞 填滿
+1750,calm,動詞,使冷靜 1782 find 動詞 找到
+1751,cancel,動詞,取消 1783 fit 動詞 適合
+1752,care,動詞,關心 1784 focus 動詞 聚焦
+1753,certain,形容詞,確定的 1785 form 動詞 形成
+1754,check,動詞,檢查 1786 get 動詞 得到
+1755,compare,動詞,比較 1787 give 動詞 給予
+1756,complain,動詞,抱怨 1788 handle 動詞 處理
+1757,concern,動詞,關心；涉及 1789 happen 動詞 發生
+1758,continue,動詞,繼續 1790 hide 動詞 隱藏
+1759,create,動詞,創造 1791 hurt 動詞 傷害
+1760,date,動詞,約會 1792 improve 動詞 改善
+1761,deal,動詞,處理 1793 include 動詞 包含
+1762,decide,動詞,決定 1794 ignore 動詞 忽略
+1763,decrease,動詞,減少 1795 increase 動詞 增加
+1764,depend,動詞,依賴 1796 insist 動詞 堅持
+1765,describe,動詞,描述 1797 interrupt 動詞 打斷
+1766,detect,動詞,偵測 1798 introduce 動詞 介紹
+1767,die,動詞,死亡 1799 invent 動詞 發明
+1768,direct,動詞,指導 1800 invite 動詞 邀請
+1769,disappear,動詞,消失 1801 join 動詞 加入
+1770,discover,動詞,發現 1802 judge 動詞 判斷
+1771,discuss,動詞,討論 1803 keep 動詞 保持
+1772,download,動詞,下載 1804 lead 動詞 領導
+1773,emphasize,動詞,強調 1805 let 動詞 讓
+1774,enjoy,動詞,享受 1806 lie 動詞 說謊；躺
+1775,envy,動詞,嫉妒 1807 limit 動詞 限制
+1808,list,動詞,列出 1840 serve 動詞 服務
+1809,match,動詞,匹配 1841 share 動詞 分享
+1810,mean,動詞,意思是 1842 show 動詞 展示
+1811,notice,動詞,注意到 1843 sleep 動詞 睡覺
+1812,obey,動詞,服從 1844 start 動詞 開始
+1813,omit,動詞,省略 1845 stay 動詞 停留
+1814,own,動詞,擁有 1846 stop 動詞 停止
+1815,plan,動詞,計劃 1847 suggest 動詞 建議
+1816,pollute,動詞,污染 1848 support 動詞 支持
+1817,praise,動詞,讚美 1849 thank 動詞 感謝
+1818,pray,動詞,祈禱 1850 treat 動詞 對待
+1819,prepare,動詞,準備 1851 trust 動詞 信任
+1820,promise,動詞,承諾 1852 try 動詞 嘗試
+1821,provide,動詞,提供 1853 upload 動詞 上傳
+1822,quit,動詞,退出 1854 visit 動詞 拜訪
+1823,raise,動詞,提高；撫養 1855 wait 動詞 等待
+1824,reach,動詞,到達 1856 wake 動詞 醒來
+1825,receive,動詞,接收 1857 waste 動詞 浪費
+1826,refuse,動詞,拒絕 1858 welcome 動詞 歡迎
+1827,reject,動詞,拒絕 1859 able 形容詞 能夠的
+1828,rent,動詞,租用 1860 absent 形容詞 缺席的
+1829,respect,動詞,尊重 1861 afraid 形容詞 害怕的
+1830,return,動詞,歸還 1862 alike 形容詞 相似的
+1831,ruin,動詞,毀滅 1863 alive 形容詞 活著的
+1832,solve,動詞,解決 1864 ancient 形容詞 古代的
+1833,satisfy,動詞,滿足 1865 asleep 形容詞 睡著的
+1834,save,動詞,拯救；儲存 可用的；有空
+1835,search,動詞,搜尋 的
+1836,seem,動詞,似乎 1867 basic 形容詞 基本的
+1837,select,動詞,選擇 明亮的；聰明
+1838,sell,動詞,賣 的
+1839,send,動詞,傳送 1869 broad 形容詞 寬廣的
+1870,classical,形容詞,古典的 1898 fresh 形容詞 新鮮的
+1871,colorful,形容詞,多彩的 1899 glad 形容詞 高興的
+1900,hard,形容詞,硬的；困難的
+1901,helpful,形容詞,有幫助的
+1873,complete,形容詞,完整的 1902 homesick 形容詞 想家的
+1874,convenient,形容詞,方便的 1903 horrible 形容詞 可怕的
+1875,correct,形容詞,正確的 1904 important 形容詞 重要的
+1876,crowded,形容詞,擁擠的 1905 impossible 形容詞 不可能的
+1877,dangerous,形容詞,危險的 1906 independent 形容詞 獨立的
+1878,dark,形容詞,黑暗的 1907 instant 形容詞 立即的
+1879,dead,形容詞,死的 1908 interesting 形容詞 有趣的
+1909,latest,形容詞,最新的
+1910,loud,形容詞,大聲的
+1881,different,形容詞,不同的 1911 lucky 形容詞 幸運的
+1882,difficult,形容詞,困難的 1912 magic 形容詞 魔法的
+1883,dirty,形容詞,骯髒的 1913 major 形容詞 主要的
+1884,double,形容詞,雙倍的 不可思議的；
+1885,easy,形容詞,容易的 極好的
+1886,electric,形容詞,電的 次要的；較小
+1887,enough,形容詞,足夠的 的
+1888,equal,形容詞,平等的 1916 modern 形容詞 現代的
+1889,excellent,形容詞,優秀的 1917 national 形容詞 國家的
+1890,fantastic,形容詞,極好的 1918 necessary 形容詞 必要的
+1891,fair,形容詞,公平的 1919 negative 形容詞 負面的
+1892,fashionable,形容詞,時尚的 1920 noisy 形容詞 吵鬧的
+1893,favorite,形容詞,最喜愛的 1921 ordinary 形容詞 普通的
+1894,foreign,形容詞,外國的 1922 overseas 形容詞 海外的
+1895,formal,形容詞,正式的 1923 peaceful 形容詞 和平的
+1924,perfect,形容詞,完美的
+1925,personal,形容詞,個人的
+1926,popular,形容詞,受歡迎的
+1927,positive,形容詞,1951 sorry 形容詞
+1928,possible,形容詞,可能的 1952 special 形容詞 特別的
+1929,precious,形容詞,珍貴的 1953 strange 形容詞 奇怪的
+1954,sudden,形容詞,突然的
+1955,super,形容詞,超級的
+1931,private,形容詞,私人的 1956 surprised 形容詞 感到驚訝的
+1932,public,形容詞,1957 terrible 形容詞
+1933,quiet,形容詞,安靜的 1958 terrific 形容詞 極好的
+1934,rare,形容詞,稀有的 1959 thick 形容詞 厚的
+1935,ready,形容詞,準備好的 1960 tidy 形容詞 整潔的
+1936,real,形容詞,真實的 1961 traditional 形容詞 傳統的
+1962,unique,形容詞,獨特的
+1963,useful,形容詞,有用的
+1938,responsible,形容詞,負責的 1964 valuable 形容詞 有價值的
+1939,right,形容詞,1965 social 形容詞
+1940,safe,形容詞,安全的 野生的；狂野
+1941,same,形容詞,相同的 的
+1942,scared,形容詞,害怕的 1967 wonderful 形容詞 美妙的
+1943,secondary,形容詞,次要的 1968 wrong 形容詞 錯誤的
+1969,always,副詞,總是
+1970,ever,副詞,曾經
+1945,sharp,形容詞,1971 never 副詞 從不
+1972,often,副詞,經常
+1946,silent,形容詞,沉默的
+1973,seldom,副詞,很少
+1947,similar,形容詞,相似的
+1974,sometimes,副詞,有時候
+1948,single,形容詞,1975 usually 副詞 通常
+1976,actually,副詞,實際上
+1949,skillful,形容詞,熟練的
+1977,again,副詞,再次
+1950,sleepy,形容詞,想睡的
+1978,away,副詞,離開
+1979,almost,副詞,幾乎
+1980,especially,副詞,尤其
+1981,even,副詞,甚至
+1982,finally,副詞,最後
+1983,hardly,副詞,幾乎不
+1984,least,副詞,最少
+1985,really,副詞,真地
+1986,so,副詞,如此；這麼
+1987,still,副詞,仍然
+1988,then,副詞,然後
+1989,together,副詞,一起
+1990,twice,副詞,兩次
+1991,very,副詞,非常
+1992,yet,副詞,尚未；但是
+1993,aloud,副詞,大聲地
+1994,abroad,副詞,在國外
+1995,ahead,副詞,在前面
+1996,everywhere,副詞,到處
+1997,anywhere,副詞,任何地方
+1998,somewhere,副詞,某個地方
+2000,nor,連接詞,也不

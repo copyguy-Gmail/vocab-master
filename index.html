@@ -20,16 +20,48 @@
         }
     </script>
 </head>
-<body>
+<body data-theme="dark">
+    <!-- Challenger Registration Overlay -->
+    <div id="register-overlay" class="overlay active">
+        <div class="modal">
+            <h2>🏆 挑戰者登記</h2>
+            <p>請輸入您的名號，開啟王者之路</p>
+            <input type="text" id="challenger-name-input" placeholder="例如：單字煞星" maxlength="12">
+            <button id="btn-register" class="btn btn-right">正式登錄</button>
+        </div>
+    </div>
+
     <!-- Level Selection Screen -->
     <div id="level-screen" class="screen active">
         <header>
+            <div class="header-top">
+                <div class="user-info">
+                    <span class="icon">👤</span>
+                    <span id="display-name">挑戰者</span>
+                </div>
+                <button id="btn-show-ranking" class="rank-btn" title="查看排行榜">🏆 排名</button>
+            </div>
             <div class="word-count">國中必備 2000 單字</div>
             <h1>VOCAB MASTER</h1>
-            <p class="subtitle">請選擇關卡開始挑戰</p>
+            <p class="subtitle">完成關卡以解鎖後續挑戰</p>
         </header>
+        <div class="set-selector">
+            <button class="set-btn active" data-set="junior_high">國中必備 2000 單字</button>
+            <button class="set-btn" data-set="toeic">多益 TOEIC 片語</button>
+        </div>
         <div class="level-grid" id="level-grid">
-            <!-- Levels 1-20 will be generated here -->
+            <!-- Levels will be generated here -->
+        </div>
+
+        <!-- Ranking Section (Hidden by default) -->
+        <div id="ranking-section" class="ranking-container">
+            <div class="ranking-header">
+                <h2>🏆 王者排行榜</h2>
+                <button id="close-ranking" class="close-btn">×</button>
+            </div>
+            <div class="ranking-list" id="ranking-list">
+                <!-- Rankings will be generated here -->
+            </div>
         </div>
     </div>
 
@@ -91,7 +123,7 @@
         </div>
     </div>
 
-    <script src="words.js"></script>
-    <script src="game.js"></script>
+    <script src="words.js?v=2"></script>
+    <script src="game.js?v=2"></script>
 </body>
 </html>
