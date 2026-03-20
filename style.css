@@ -20,19 +20,19 @@ body {
     background: radial-gradient(circle at top left, #1e1b4b, #0f172a);
     color: var(--text-main);
     min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     overflow-x: hidden;
+    padding: 0;
+    margin: 0;
 }
 
 .screen {
     display: none;
     width: 100%;
-    max-width: 600px;
-    padding: 2rem;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 1.5rem;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1.5rem;
     perspective: 1000px;
 }
 
@@ -91,12 +91,12 @@ header {
 }
 
 header h1 {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     background: linear-gradient(to right, #818cf8, #f472b6);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.25rem;
 }
 
 /* Set Selector */
@@ -396,7 +396,11 @@ header h1 {
 }
 
 @media (max-width: 480px) {
-    .level-grid { grid-template-columns: repeat(3, 1fr); }
+    .level-grid { grid-template-columns: repeat(3, 1fr); gap: 0.5rem; }
+    header h1 { font-size: 1.8rem; }
+    .screen { padding: 1rem; }
+    .level-btn { padding: 1rem 0.25rem; border-radius: 0.75rem; }
+    .level-number { font-size: 1rem; }
 }
 
 * { -webkit-tap-highlight-color: transparent; user-select: none; }
